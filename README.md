@@ -1,1 +1,1 @@
-# İK Analitği Dersi Dosyaları
+# İK Analitiği Dersi Dosyaları
